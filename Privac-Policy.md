@@ -1,6 +1,6 @@
-# Privacy Policy for 21Club Games
+# Privacy Policy for Club21 Games
 
-This privacy policy outlines how 21Club Games ("we", "us", or "our") collects, uses, and shares information when you use our mobile game applications (the "Games").
+This privacy policy outlines how Club21 Games ("we", "us", or "our") collects, uses, and shares information when you use our mobile game applications (the "Games").
 
 ## Information We Collect
 
