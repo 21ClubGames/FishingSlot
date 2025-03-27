@@ -1,57 +1,83 @@
-# Privacy Policy for 21Club Games
+# Privacy Policy of Nebula Games Studio
 
-This privacy policy outlines how 21Club Games ("we", "us", or "our") collects, uses, and shares information when you use our mobile game applications (the "Games").
 
-## Information We Collect
+**1. Introduction**
 
-We prioritize user privacy and strive to collect minimal data.
+Welcome to the games developed by Nebula Games Studio. We are committed to protecting your privacy and ensuring a safe and transparent gaming experience. This Privacy Policy outlines how we collect, use, and protect your information when you interact with our games.
 
-**Information You Provide:**
+**2. Information We Collect**
 
-* **Contact Information:** If you contact us via email (ula.skupnik@gmail.com), we will retain your email address and the content of your communication.
+We may collect the following types of information:
 
-**Automatically Collected Information:**
+* **Device and Usage Information:**
+    * Device identifiers (e.g., device model, operating system, unique device identifiers).
+    * Gameplay data (e.g., progress, scores, achievements).
+    * Log information (e.g., IP address, access times, app usage).
+* **Advertising and Analytics Information:**
+    * Advertising IDs (e.g., IDFA, AAID) for personalized ads.
+    * Analytics data to understand user behavior and improve our games.
+* **Social and Account Information (if applicable):**
+    * If you connect through social media, we may collect basic profile information as permitted by your social media settings.
+    * Account information if you create an in-game account.
+* **In-App Purchase Information:**
+    * information about any in app purchases that you may make.
 
-* Depending on the specifics of the Game, we *may* automatically collect certain information, including:
-    * Device type and operating system.
-    * Game progress and usage statistics.
-    * Unique device identifiers (e.g., Android ID, Advertising ID).
-    * IP address (in limited cases).
-* **Third-Party Services:** Our games *may* use third-party services like ad networks and analytics platforms. These third parties have their own privacy policies, which you should review.
+**3. How We Use Your Information**
 
-**Important Note:** We are committed to minimizing data collection. If a particular Game collects any of the "Automatically Collected Information," details will be clearly provided within the Game's settings or help documentation.
+We use your information for the following purposes:
 
-## Use of Information
+* **To Provide and Improve Our Games:**
+    * To deliver and maintain our games.
+    * To personalize your gaming experience.
+    * To analyze and improve game performance.
+* **To Display Advertising:**
+    * To show targeted advertisements.
+    * To measure the effectiveness of our advertising.
+* **To Communicate with You:**
+    * To respond to your inquiries and provide support.
+    * To send you updates and notifications.
+* **To Ensure Safety and Security:**
+    * To prevent fraud and protect our users.
+    * To comply with legal obligations.
 
-We use the collected information for the following purposes:
+**4. Sharing Your Information**
 
-* To provide, maintain, and improve our Games.
-* To respond to your inquiries and support requests.
-* To enable third party advertisments.
-* To analyze user activity and game improvement.
+We may share your information with:
 
-## Sharing of Information
+* **Third-Party Service Providers:**
+    * For analytics, advertising, and other services.
+* **Business Partners:**
+    * To offer you joint products or services.
+* **Legal Authorities:**
+    * When required by law or to protect our rights.
 
-We will not share your personal information with third parties except under the following circumstances:
+**5. Data Security**
 
-* With your explicit consent.
-* When required by law.
-* With 3rd party advertising and analytic platfroms.
+We implement reasonable security measures to protect your information. However, no method of transmission over the internet or electronic storage is completely secure.
 
-## Children's Privacy
+**6. Your Rights**
 
-Our Games are intended for a general audience. We do not knowingly collect personal information from children under 13 years of age. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us at the provided email address.
+You have the right to:
 
-## Changes to This Privacy Policy
+* **Access and Correct Your Information:**
+    * You may request access to and correction of your personal information.
+* **Opt-Out of Targeted Advertising:**
+    * You can limit ad tracking through your device settings.
+* **Data Deletion:**
+    * You may request the deletion of your personal data, subject to certain exceptions.
 
-We reserve the right to modify this Privacy Policy at any time. We will notify you of any changes by posting the updated Privacy Policy on this page. Changes will take effect immediately upon posting.
+**7. Children’s Privacy**
 
-## Contact Us
+Our games are not intended for children under the age of 13. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+**8. Changes to This Privacy Policy**
 
-ula.skupnik@gmail.com
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.
 
----
+**9. Contact Us**
 
-**Last Updated:** [Insert Date]
+If you have any questions about this Privacy Policy, please contact us at:
+
+* Email: ngoc21012001@gmail.com
+
+Thank you for playing Nebula Games!
